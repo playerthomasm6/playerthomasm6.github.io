@@ -69,6 +69,7 @@ nav button{
     Height: 50px;
     flex:1;
     
+    
 }
 
 .navbar{
@@ -77,5 +78,6 @@ nav button{
     background-color: rgb(28, 101, 185);
     Height: 50px;
     width: 90%;
+    flex-wrap:wrap;
 
 }
