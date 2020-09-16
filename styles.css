@@ -49,7 +49,7 @@ table {
 .titlebar{
     margin: auto;
     width: 90%;
-    height: 200px;
+    height: 150px;
     background-color: rgb(28, 101, 185);
 
 }
@@ -62,15 +62,20 @@ header h1{
     font-style: bold;
 }
 
-header nav button{
-    position: relative;
-    bottom: 0px;
+nav button{
+    font-size: 22px;
+    color: white;
+    background-color: rgb(28, 101, 185);
+    Height: 50px;
+    flex:1;
+    
 }
 
 .navbar{
-    position: relative;
-    bottom: 0px;
-    width: 70%;
     display: flex;
+    margin: auto;
+    background-color: rgb(28, 101, 185);
+    Height: 50px;
+    width: 90%;
 
 }
