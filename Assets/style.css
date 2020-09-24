@@ -47,3 +47,10 @@
 
 }
 
+#background-logo{
+    background-image: url="Images/Logo-01.png";
+    height: 3rem;
+}
+
+#margin-fix{
+}
