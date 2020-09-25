@@ -53,3 +53,7 @@
     background-image: url="images/Logo-01.png";
     height: 3rem;
 }
+
+picture img {
+    border-radius: 10px;
+}
