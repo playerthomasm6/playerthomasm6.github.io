@@ -6,3 +6,8 @@ div label{
 p span{
     font-size: 8px;
 }
+
+body {
+    background-size:cover;
+    background-image: url("images/bg-02.jpg");
+}

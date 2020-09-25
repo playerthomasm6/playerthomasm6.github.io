@@ -35,8 +35,10 @@
 }
 
 #border-color{
+    width:100%;
+    border-top: solid;
     border-bottom: solid;
-    border-color: rgb(100, 177, 145);
+    border-color: rgb(212, 131, 38);
     border-width: 3px;
 }
 
@@ -48,9 +50,6 @@
 }
 
 #background-logo{
-    background-image: url="Images/Logo-01.png";
+    background-image: url="images/Logo-01.png";
     height: 3rem;
-}
-
-#margin-fix{
 }
