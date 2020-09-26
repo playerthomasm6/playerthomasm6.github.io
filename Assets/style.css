@@ -60,3 +60,23 @@ picture img {
     border-radius: 10px;
     box-shadow: 0 4px 0 0
 }
+
+#border-color-top{
+    border-top: solid;
+    border-left: solid;
+    border-right: solid;
+    border-color: rgb(212, 131, 38);
+    border-width: 3px;
+}
+
+#border-color-top-bottom{
+    border: solid;
+    border-color: rgb(212, 131, 38);
+    border-width: 3px;
+}
+
+#margin-fix-01{
+    margin-left: auto;
+    margin-right: auto;
+    color: whitesmoke;
+}

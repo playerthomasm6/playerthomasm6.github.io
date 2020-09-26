@@ -11,3 +11,18 @@ body {
     background-size:cover;
     background-image: url("images/bg-02.jpg");
 }
+
+#border-radius{
+    border-radius: 5px;
+}
+
+#width100{
+    width: 100%;
+    Height: 100%;
+    border: solid;
+    border-width: 0px;
+}
+
+#text-color{
+    color: whitesmoke;
+}
