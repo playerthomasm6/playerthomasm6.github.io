@@ -1,6 +1,8 @@
-.headsot{
-    width: 300px;
-    height: 300px;
+article h1{
+    padding-left: 20px;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    
 }
 
 .margin-bottom{
@@ -79,4 +81,41 @@ picture img {
     margin-left: auto;
     margin-right: auto;
     color: whitesmoke;
+}
+
+.text-box{
+    color:whitesmoke;
+
+}
+
+.margin-textbox{
+    margin-left: 5%;
+    margin-right: 5%;
+    color: whitesmoke;
+}
+
+.top-margin{
+    margin-top:5%;
+}
+
+.row-margin{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.photo-size-sm{
+    height: 50%;
+}
+
+.margin-height-auto{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.margin-bottom-textbox{
+    margin-bottom: 5%;
+}
+
+.card-margin{
+    margin-left: 10%;
 }
